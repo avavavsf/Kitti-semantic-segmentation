@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/yunming/Desktop/CarND-Semantic-Segmentation-master/model.ckpt"
-all_model_checkpoint_paths: "/home/yunming/Desktop/CarND-Semantic-Segmentation-master/model.ckpt"
